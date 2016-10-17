@@ -1,3 +1,4 @@
-#KA {
-  background-color: aqua;
+@media all and (max-width: 480px)
+{
+  #gallery{display: none;}
 }
